@@ -1,0 +1,17 @@
+{
+  "name": "computer-project-homework-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ozan ATA, Güneş YURDAKUL, Güllü KATIK",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "underscore": "^1.8.3"
+  }
+}
